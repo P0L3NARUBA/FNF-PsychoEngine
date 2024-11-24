@@ -88,6 +88,7 @@ It depends on your operating system. For Windows, run `windows.bat`, for anythin
 Sit back, relax, and wait for haxelib to do its magic. You will be done when you see the word "**Finished!**"
 
 To build the game, run `lime test cpp`.
+  - You can also type `lime test windows` if you're on windows.
 
 ---
 
