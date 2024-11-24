@@ -18,6 +18,7 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 ## Credits:
 * Shadow Mario - Head Developer, Programmer.
 * Riveren - Main Artist.
+* yungDoom - Modder.
 
 ### Special Thanks
 * bbpanzu - Ex-Team Member (Programmer).
